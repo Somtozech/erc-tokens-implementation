@@ -1,3 +1,5 @@
+// SPDX-License-Identifier: MIT
+
 library Base64 {
     string internal constant TABLE_ENCODE =
         "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/";
